@@ -1,6 +1,6 @@
 # WEB
 
-> Servdeck Billing Front-end
+> Basic Front-end to test API end-points in front-end
 
 ## Build Setup
 
